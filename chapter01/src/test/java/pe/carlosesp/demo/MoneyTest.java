@@ -3,42 +3,6 @@ package pe.carlosesp.demo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-/**
- * TDD Steps:
- * <ol>
- *     <li>Quickly add a test.</li>
- *     <li>Run all tests and see the new one fail.</li>
- *     <li>Make a little change.</li>
- *     <li>Run all tests and see them all succeed.</li>
- *     <li>Refactor to remove duplication.</li>
- * </ol>
- *
- * <p> Tests for the project:
- * <ol>
- *     <li>Be able to add amounts in two different currencies and convert the result
- *     given a set of exchange rates.</li>
- *     <li>Be able to multiply an amount (price per share) by a number (number of shares)
- *     and receive an amount.</li>
- * </ol>
- *
- * <p> Work based on tasks:
- * <ul>
- *     <li>Make a to-do list of tasks (tests) we want to complete.</li>
- *     <li><b>Text in bold</b> means that the task is being developed.</li>
- *     <li><strike>Text crossed off</strike> means that the task was completed.</li>
- *     <li>New tests can be added to the list as they appear.</li>
- * </ul>
- *
- * <p> List of pending tasks and current task being worked on:
- * <pre>
- * $5 + 10 CHF = $10 if rate is 2:1
- * <b>$5 * 2 = 10</b>
- * <i>*** New tasks identified as we write the first test ***</i>
- * Make "amount" private
- * Dollar side-effects?
- * Money rounding?
- * </pre>
- */
 public class MoneyTest {
 
     /**
