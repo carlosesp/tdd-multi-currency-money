@@ -1,4 +1,4 @@
-package pe.carlosesp.demo;
+package pe.carlosesp.tddmoney.chapter01;
 
 public class Dollar {
 

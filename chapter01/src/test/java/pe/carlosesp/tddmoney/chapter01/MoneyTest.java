@@ -1,4 +1,4 @@
-package pe.carlosesp.demo;
+package pe.carlosesp.tddmoney.chapter01;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

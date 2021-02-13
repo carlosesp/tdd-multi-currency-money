@@ -5,7 +5,7 @@
 
   <parent>
     <artifactId>tdd-multi-currency-money</artifactId>
-    <groupId>pe.carlosesp.demo</groupId>
+    <groupId>pe.carlosesp.tddmoney</groupId>
     <version>1.0-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
