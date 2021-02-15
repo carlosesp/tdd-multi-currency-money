@@ -1,5 +1,10 @@
 package pe.carlosesp.tddmoney.chapter08;
 
+/**
+ * Create factory methods for Dollar and Franc.
+ * Make class abstract and declare times() method that
+ * is implemented in each subclass.
+ */
 abstract class Money {
     protected int amount;
 

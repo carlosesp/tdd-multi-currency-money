@@ -4,6 +4,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Remove reference to subclasses Franc and Money
+ * from test code.
+ */
 public class MoneyTest {
 
     @Test
