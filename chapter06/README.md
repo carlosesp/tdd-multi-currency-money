@@ -13,3 +13,5 @@
 - Dollar/Franc duplication
 - **Common equals**
 - Common times
+- `New tasks identified`
+- Compare Francs with Dollars
