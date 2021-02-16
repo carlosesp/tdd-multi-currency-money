@@ -15,3 +15,5 @@
 - Common times
 - ~~Compare Francs with Dollars~~
 - **Currency?**
+- `New tests indentified`
+- Delete testFrancMultiplication?
