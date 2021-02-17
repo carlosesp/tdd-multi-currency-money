@@ -23,6 +23,7 @@
     <module>chapter11</module>
     <module>chapter12</module>
     <module>chapter13</module>
+    <module>chapter14</module>
   </modules>
 
   <name>tdd-multi-currency-money</name>
